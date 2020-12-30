@@ -10,6 +10,12 @@ body{font-family: 'Yellowtail', cursive;}
 
 /*index-2*/
 
+.head{color:#FFFDA9;
+font-size:30px;}
+
+.head span{color:yellow;}
+
+
 .banner{background-image:url('images/HNYImg.jpg');
 height:620px;
 background-repeat:no-repeat;
@@ -19,7 +25,7 @@ background-size:cover;}
 .banner1 img{width:10%;
 	transition:2s;
 	margin-left:50px;
-	margin-top:40px;}
+	margin-top:30px;}
 
 .banner1 img:hover{transform:scale(2);}
 
